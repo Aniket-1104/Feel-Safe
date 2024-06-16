@@ -1,12 +1,12 @@
-# Women Safety Application
-## _Feel Safe Everywhere_
+# Feel-Safe
+# A Women Safety Application
 
 
 Women Safety App is user friendly application built in Android Studio,
 it is simple to implement,easy to understand.
 
 
-[<img src="media/womenSafety.png" />]
+<img src="media/womenSafety.png" />
 
 
 
@@ -37,12 +37,6 @@ Hit Run Button !
 
 ------------
 
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/E0WLnlkPDJY
-
-**Free Software, Hell Yeah!**
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    
-# feel-safe
+
